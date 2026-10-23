@@ -5,7 +5,7 @@
 >
 > Altri progetti di elettronica, Arduino, ESP32, Home Assistant e stampa 3D su **[www.emgi.it](https://www.emgi.it)**
 
-![Controller USB con Raspberry Pico e guscio stampato in 3D](immagini/cover-controller-pico.png)
+![Controller USB con Raspberry Pico e guscio stampato in 3D](immagini/copertina-3d.jpg)
 
 Un **gamepad USB** sottile, con un joystick analogico **KY-023**, quattro pulsanti e le impugnature lunghe dei pad degli anni '90, in un guscio stampato in 3D. Dentro c'è un **Raspberry Pi Pico (RP2040)**: con l'USB integrato si presenta come controller standard e funziona **senza driver** su PC Windows, Linux e Mac, Recalbox, RetroPie, Batocera e Android.
 
